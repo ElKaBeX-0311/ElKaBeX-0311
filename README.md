@@ -1,4 +1,4 @@
 ### About me 🤔
 
-- 🎲 I’m currently working on BlackJack RP
+- 🗃️ I’m currently at school
 - 👨‍💻 I learning Lua, js, php, py and bash
