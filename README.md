@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE1AC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+KaBeX;I'm+21+years+old;I+from+Paris,+SP;I+study+administration+systems+security+at+RedSup;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaBeX&show_icons=true&count_private=true&hide_border=true&title_color=FFE1AC&icon_color=FFE1AC&text_color=c9d1d9&bg_color=0d1117" alt="KaBeX github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaBeX&show_icons=true&count_private=true&hide_border=true&title_color=FFE1AC&icon_color=FFE1AC&text_color=c9d1d9&bg_color=FFE1AC" alt="KaBeX github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaBeX&layout=compact&hide_border=true&title_color=FFE1AC&text_color=FFE1AC&bg_color=0d1117" />
 </div>
 
@@ -13,9 +13,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KaBeX&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-*\<div align="center">  
-*\<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-*\</div>  
+<!--<div align="center">  
+<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>-->
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
