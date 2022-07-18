@@ -1,6 +1,6 @@
-<!--<p align="center">
-<a href="https://discords.com/bio/p/shazuub" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/470972839302791198.png" alt="Discord" /></a>
-</p>-->
+<p align="center">
+<a href="https://discords.com/bio/p/04685986-e4be-3270-417e-4b623169e73b" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/349132935678394369.png" alt="Discord" /></a>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E8DFAB&height=180&section=header&text=KaBeX &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8DFAB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KABEX,+I+AM+21;I+AM+STUDYING+AT+REDSUP;THE+ADMINISTRATION+OF+SECURE+INFREASTRUCTURES)
@@ -19,8 +19,6 @@
 <!--<div align="center">  
 <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>-->
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/349132935678394369?theme=light&bg=E8DFAB&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20rompish...)](https://discord.com/users/349132935678394369)
 
 ## Main skills
 ![Bash](https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
