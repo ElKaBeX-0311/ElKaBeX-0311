@@ -20,7 +20,7 @@
 <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>-->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/868946632937447444?theme=light&bg=E8DFAB&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20rompish...)](https://discord.com/users/868946632937447444)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/349132935678394369?theme=light&bg=E8DFAB&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20rompish...)](https://discord.com/users/349132935678394369)
 
 ## Main skills
 ![Bash](https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
